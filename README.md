@@ -465,7 +465,7 @@
       </div>
       <!-- Климов Демьян -->
       <div class="player-card">
-        <div class="player-number">10</div>
+        <div class="player-number">7</div>
         <div class="player-photo mf">⚡</div>
         <div class="player-info">
           <h3>Климов Демьян</h3>
@@ -476,7 +476,7 @@
       </div>
       <!-- Романов Александр -->
       <div class="player-card">
-        <div class="player-number">1</div>
+        <div class="player-number">10</div>
         <div class="player-photo fw">⚽</div>
         <div class="player-info">
           <h3>Романов Александр</h3>
