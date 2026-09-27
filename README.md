@@ -329,7 +329,8 @@
   <!-- HEADER -->
   <header id="header">
     <a href="фк.jpg" class="logo">
-      <div class="crest"><img src="фк.jpg"></div>
+      <div class="crest"><img src="фк.jpg" alt="" width="1024" height="683">
+</div>
       ФК <span>АРБАТ</span>
     </a>
     <nav>
