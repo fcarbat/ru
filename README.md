@@ -556,7 +556,7 @@
         </div>
         <div class="contact-item">
           <div class="contact-icon">📞</div>
-          <div><div class="label">Телефон</div><div class="value">+7 (999) 123-45-67</div></div>
+          <div><div class="label">Телефон</div><div class="value">+7 (918) 330-10-27</div></div>
         </div>
         <div class="contact-item">
           <div class="contact-icon">📍</div>
