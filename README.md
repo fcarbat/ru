@@ -329,7 +329,7 @@
   <!-- HEADER -->
   <header id="header">
     <a href="фк.jpg" class="logo">
-      <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/5ff4f11f-d774-4f32-bff4-73fd811443e9" />
+      <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/5ff4f11f-d774-4f32-bff4-73fd811443e9" />
       ФК <span>АРБАТ</span>
     </a>
     <nav>
