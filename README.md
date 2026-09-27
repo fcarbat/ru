@@ -552,7 +552,7 @@
       <div class="contact-info">
         <div class="contact-item">
           <div class="contact-icon">✉️</div>
-          <div><div class="label">Email</div><div class="value">info@steelballfc.ru</div></div>
+          <div><div class="label">Email</div><div class="value">maksim.solovyev10@mail.ru</div></div>
         </div>
         <div class="contact-item">
           <div class="contact-icon">📞</div>
@@ -560,12 +560,12 @@
         </div>
         <div class="contact-item">
           <div class="contact-icon">📍</div>
-          <div><div class="label">Адрес</div><div class="value">г. Краснодар, ул. Байбакова, 17<br>стадион «МАОУ СОШ 103»</div></div>
+          <div><div class="label">Адрес</div><div class="value">г. Краснодар, пер. Арбатский<br>ЖК ЛУЧШИЙ</div></div>
         </div>
         <div class="social-links">
-          <a href="#" class="social-link" title="VK">VK</a>
-          <a href="#" class="social-link" title="Telegram">TG</a>
-          <a href="#" class="social-link" title="YouTube">YT</a>
+          <a href="https://vk.ru/club230043117" class="social-link" title="VK">VK</a>
+          <a href="https://t.me/fcarbat" class="social-link" title="Telegram">TG</a>
+          <a href="https://max.ru/join/ATvpgYbFyND0RALpBRNCsaS8Bw5d0ArXqv7Y1RQqZgI" class="social-link" title="YouTube">MAX</a>
         </div>
       </div>
       <form class="contact-form" onsubmit="event.preventDefault(); alert('Сообщение отправлено!'); this.reset();" action="https://formspree.io/f/mqpadwab"
@@ -573,10 +573,6 @@
         <div class="form-group">
           <label>Ваше имя</label>
           <input type="text" placeholder="Иван Иванов" required />
-        </div>
-        <div class="form-group">
-          <label>Email</label>
-          <input type="email" placeholder="ivan@example.com" required />
         </div>
         <div class="form-group">
           <label>Сообщение</label>
