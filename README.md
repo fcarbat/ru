@@ -569,8 +569,7 @@
         </div>
       </div>
       <form action="https://formspree.io/f/mqpadwab"
-  method="POST"
-  enctype="multipart/form-data" class="contact-form" onsubmit="event.preventDefault(); alert('Сообщение отправлено!'); this.reset();">
+  method="POST" class="contact-form" onsubmit="event.preventDefault(); alert('Сообщение отправлено!'); this.reset();">
         <div class="form-group">
           <label>Ваше имя</label>
           <input type="text" placeholder="Иван Иванов" required />
