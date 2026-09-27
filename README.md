@@ -568,7 +568,8 @@
           <a href="#" class="social-link" title="YouTube">YT</a>
         </div>
       </div>
-      <form class="contact-form" onsubmit="event.preventDefault(); alert('Сообщение отправлено!'); this.reset();">
+      <form class="contact-form" onsubmit="event.preventDefault(); alert('Сообщение отправлено!'); this.reset();" action="https://formspree.io/f/mqpadwab"
+  method="POST">
         <div class="form-group">
           <label>Ваше имя</label>
           <input type="text" placeholder="Иван Иванов" required />
