@@ -328,7 +328,7 @@
 
   <!-- HEADER -->
   <header id="header">
-    <a href="#hero" class="logo">
+    <a href="фк.jpg" class="logo">
       <div class="crest">⚽</div>
       ФК <span>АРБАТ</span>
     </a>
