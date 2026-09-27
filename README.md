@@ -334,7 +334,7 @@
     </a>
     <nav>
       <ul id="nav-menu">
-        <li><a href="#about">О команде</a></li>
+         <li><a href="#about">О команде</a></li>
         <li><a href="#roster">Состав</a></li>
         <li><a href="#matches">Матчи</a></li>
         <li><a href="#contacts">Контакты</a></li>
@@ -375,7 +375,7 @@
           <li><span class="trophy">🏆</span> Чемпион лиги района 2025</li>
           <li><span class="trophy">🏆</span> Чемпион Лиги Арбат 2025</li>
           <li><span class="trophy">🏆</span> Кубок Района 2026</li>
-          <li><span class="trophy">🥉</span> Бронза Кубка СОШ 103, май 2026</li>
+          <li><span class="trophy">⚽</span> Бронза Кубка СОШ 103, май 2026</li>
           <li><span class="trophy">⚽</span> 1/4 финала Кубка СОШ 103, сен 2026</li>
         </ul>
       </div>
@@ -394,7 +394,7 @@
         </div>
         <div class="stat-item">
           <div class="stat-number">34</div>
-          <div class="stat-label">Голов лидера</div>
+          <div class="stat-label">Гола лидера</div>
         </div>
       </div>
     </div>
@@ -433,7 +433,7 @@
       <!-- Гефтов Фёдор -->
       <div class="player-card">
         <div class="player-number">1</div>
-        <div class="player-photo gk">🧤</div>
+        <div class="player-photo gk">⚽</div>
         <div class="player-info">
           <h3>Гефтов Фёдор</h3>
           <span class="player-position pos-gk">Вратарь</span>
@@ -444,7 +444,7 @@
       <!-- Кондакчян Даниэль -->
       <div class="player-card">
         <div class="player-number">4</div>
-        <div class="player-photo df">🛡️</div>
+        <div class="player-photo df">⚽</div>
         <div class="player-info">
           <h3>Кондакчян Даниэль</h3>
           <span class="player-position pos-df">Защитник</span>
@@ -455,7 +455,7 @@
       <!-- Тетов Богдан -->
       <div class="player-card">
         <div class="player-number">3</div>
-        <div class="player-photo df">🛡️</div>
+        <div class="player-photo df">⚽</div>
         <div class="player-info">
           <h3>Тетов Богдан</h3>
           <span class="player-position pos-df">Защитник</span>
