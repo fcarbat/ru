@@ -488,53 +488,71 @@
     </div>
   </section>
   
-  <section id="roster" class="fade-in">
+   <section id="roster" class="fade-in">
     <div class="section-title">
-      <h2>Запасной состав</h2>
+      <h2>Текущий состав</h2>
       <div class="underline"></div>
       <p>Игроки, которые делают результат</p>
     </div>
     <div class="roster-grid">
       <!-- Гефтов Фёдор -->
       <div class="player-card">
-        <div class="player-number">46</div>
+        <div class="player-number">1</div>
+        <div class="player-photo gk">⚽</div>
+        <div class="player-info">
+          <h3>Гефтов Фёдор</h3>
+          <span class="player-position pos-gk">Вратарь</span>
+          <p class="player-meta">21.01.2014</p>
+          <p class="player-desc">Опыт игры с 2017 года. Надёжная опора ворот.</p>
+        </div>
+      </div>
+      <!-- Кондакчян Даниэль -->
+      <div class="player-card">
+        <div class="player-number">4</div>
         <div class="player-photo df">⚽</div>
         <div class="player-info">
-          <h3>Хачатуров Ашот</h3>
+          <h3>Кондакчян Даниэль</h3>
           <span class="player-position pos-df">Защитник</span>
-          <p class="player-meta">2018</p>
-          <p class="player-desc">Опыт игры с 2023 года. Опора защиты.</p>
+          <p class="player-meta">2014 г.р.</p>
+          <p class="player-desc">Лидер обороны, лучший по отборам. Опыт 10 лет.</p>
+        </div>
       </div>
-    <div class="player-card">
-       <div class="player-number">55</div>
-        <div class="player-photo mf">⚽</div>
+      <!-- Тетов Богдан -->
+      <div class="player-card">
+        <div class="player-number">3</div>
+        <div class="player-photo df">⚽</div>
         <div class="player-info">
-          <h3>Сумина Анна</h3>
-          <span class="player-position pos-df">Полузащитник</span>
-          <p class="player-meta">2010</p>
-          <p class="player-desc">Опыт игры с 2018 года. Опора полузащиты.</p>
-    </div>
-    <div class="player-card">
-       <div class="player-number">99</div>
-        <div class="player-photo mf">⚽</div>
+          <h3>Тетов Богдан</h3>
+          <span class="player-position pos-df">Защитник</span>
+          <p class="player-meta">2018 г.р.</p>
+          <p class="player-desc">Хорош в обороне, лучший по отборам. Опыт с 2022 года.</p>
+        </div>
+      </div>
+      <!-- Климов Демьян -->
+      <div class="player-card">
+        <div class="player-number">7</div>
+        <div class="player-photo mf">⚡</div>
         <div class="player-info">
-          <h3>Бобер Артём</h3>
-          <span class="player-position pos-gk">Вратарь</span>
-          <p class="player-meta">2013</p>
-          <p class="player-desc">Опыт игры с 2024 года. Опора ворот.</p>
-    </div>
-    <div class="player-card">
-       <div class="player-number">9</div>
+          <h3>Климов Демьян</h3>
+          <span class="player-position pos-mf">Полузащитник</span>
+          <p class="player-meta">2015 г.р.</p>
+          <p class="player-desc">Главный диспетчер команды, отвечает за темп. Опыт с 2018.</p>
+        </div>
+      </div>
+      <!-- Романов Александр -->
+      <div class="player-card">
+        <div class="player-number">10</div>
         <div class="player-photo fw">⚽</div>
         <div class="player-info">
-          <h3>Климова Варвара</h3>
-          <span class="player-position pos-gk">Нападающий</span>
-          <p class="player-meta">2011</p>
-          <p class="player-desc">Опыт игры с 2019 года. Нападающий.</p>
+          <h3>Романов Александр</h3>
+          <span class="player-position pos-fw">Нападающий</span>
+          <p class="player-meta">2014 г.р.</p>
+          <p class="player-desc">Лучший бомбардир, 34 гола. Опыт с 2016 года.</p>
+        </div>
+      </div>
     </div>
-  </div>
-  </div>
   </section>
+  
   <!-- MATCHES -->
   <section id="matches" class="fade-in" style="background: var(--dark-2); max-width:none; padding-left:2rem; padding-right:2rem;">
     <div style="max-width:1200px; margin:0 auto;">
